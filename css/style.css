@@ -3511,6 +3511,10 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   width: 30px;
 }
 
+.contacts__item--map iframe {
+  width: 100%;
+}
+
 .contacts__item--map img {
   width: 100%;
   height: 100%;
